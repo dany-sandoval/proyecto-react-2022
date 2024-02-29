@@ -11,7 +11,7 @@ const UserContextProvider = ({children}) => {
   const[usuario, setUsuario] = useState({})
   useEffect(() => {
     setUsuario({
-      name: "Daniel Sandoval",
+      name: "El Barto",
       registered: "28/Febrero/2024"
     })
   }, [])
