@@ -1,7 +1,6 @@
-.app-container {
-  max-width: 1400px;
-  padding: 2rem 0;
-  margin: auto;
+.outlet-container{
+  padding: 0 1rem;
+  margin-top: 4rem;
 }
 
 .label {

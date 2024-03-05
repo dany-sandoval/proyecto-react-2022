@@ -10,7 +10,9 @@ const App = () => {
   return(
     <div className="app-container">
       <Menu />
-      <Outlet />
+      <div className="outlet-container">
+        <Outlet />
+      </div>
     </div>
   )
 }

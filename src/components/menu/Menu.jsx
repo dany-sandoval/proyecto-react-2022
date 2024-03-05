@@ -25,6 +25,7 @@ const Menu = () => {
         {/* Tambien funciona con Link to="/" */}
       </ul>
     </nav>
+    
   )
 }
 export default Menu
